@@ -7,7 +7,7 @@ package com.mramirez.modelo;
 
 /**
  *
- * @author Zonia Gonzalez
+ * @author Marvin Ramirez
  */
 public class Filtro{
     

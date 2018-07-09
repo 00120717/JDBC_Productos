@@ -26,7 +26,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Zonia Gonzalez
+ * @author Marvin Ramirez
  */
 public class Consulta extends JFrame{
     public JLabel lblCodigo, lblNombre, lblPrecio, lblCantidad, lblDisponibilidad, lblTipo;

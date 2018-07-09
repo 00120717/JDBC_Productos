@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Zonia Gonzalez
+ * @author Marvin Ramirez
  */
 public interface metodos <Generic>{
     

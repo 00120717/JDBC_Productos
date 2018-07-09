@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Zonia Gonzalez
+ * @author Marvin Ramirez
  */
 public class FiltroDao implements metodos<Filtro>{
 
